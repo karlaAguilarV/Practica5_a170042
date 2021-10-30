@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:/C:/Practica5_a170042/ejemplo.xsl"?>
+<celulares>
+  <caracteristicas>
+      <modelo>Motorola e6s</modelo>
+      <capacidad> 32 gb</capacidad>
+      <color>azul</color>
+      <Sistema_Operativo>Android 9</Sistema_Operativo>
+     <precio>$2,999 </precio>
+    </caracteristicas>
+    <caracteristicas>
+      <modelo>Samsumg a21s</modelo>
+      <capacidad> 4 gb</capacidad>
+      <color>rojo</color>
+     <precio>$5,269 </precio>
+     <Sistema_Operativo>Android 9</Sistema_Operativo>
+    </caracteristicas>
+      <caracteristicas>
+      <modelo>Huawei</modelo>
+      <capacidad> 4 gb</capacidad>
+      <color>rojo</color>
+      <precio>$3,899 </precio>
+      <Sistema_Operativo>EMUI 8.2</Sistema_Operativo>
+    </caracteristicas>
+    <caracteristicas>
+      <modelo>Xiaomi Redmi Note 9</modelo>
+      <capacidad> 3 gb</capacidad>
+      <color>gris</color>
+      <precio>$4,299</precio>
+      <Sistema_Operativo>android 10</Sistema_Operativo>
+    </caracteristicas>
+     <caracteristicas>
+      <modelo>ZTE  Blade V10</modelo>
+      <capacidad> 32 gb</capacidad>
+      <color>blanco</color>
+      <precio>$3,999</precio>
+      <Sistema_Operativo>android 9</Sistema_Operativo>
+    </caracteristicas>
+</celulares>
